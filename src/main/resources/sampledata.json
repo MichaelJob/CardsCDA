@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "question": "The will of man is his happiness.",
+    "answer": "Friedrich Schiller"
+  },
+  {
+    "id": 2,
+    "question": "Kultur, warum?",
+    "answer": "Kultur, deshalb."
+  },
+  {
+    "id": 3,
+    "question": "Mit was baut man Android Apps?",
+    "answer": "Mit Kotlin, Jetpack Compose und Liebe."
+  }
+]
